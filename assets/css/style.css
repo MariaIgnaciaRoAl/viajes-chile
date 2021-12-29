@@ -2,6 +2,7 @@
     font-family: 'Cabin', sans-serif;
     font-weight: 400;
   }
+
   .lobster{
     font-family: 'Lobster';
     }
@@ -15,18 +16,35 @@
     font-family: lobster;
     size: 400;
   }
+
   .container{
     max-width: 120%;
     background-color:whitesmoke;
   }
+
   .font-weight-bold{
     background-color:thistle;
     text-align: center;
     align-items: center;
     font-family: lobster;
   }
+  
   .destacados{
     background-color:violet;
     text-align: center;
     font-size: 100%
+  }
+
+  .rrss{
+    background-color: #17A2B8;
+    text-align: center;
+    color: white;
+  }
+
+  .titulo-rrss{
+    display: inline-block;
+    font-size: 3rem;
+    text-align: left;
+    margin-left: 1rem;
+    font-family: lobster;
   }
