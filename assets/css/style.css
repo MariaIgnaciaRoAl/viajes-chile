@@ -28,12 +28,20 @@
     align-items: center;
     font-family: lobster;
   }
-  
+
   .destacados{
     background-color:violet;
     text-align: center;
     font-size: 100%
   }
+
+#btn-up{
+    font-size: 2rem;
+    cursor: pointer;
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+}
 
   .rrss{
     background-color: #17A2B8;
