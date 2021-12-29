@@ -19,3 +19,14 @@
     max-width: 120%;
     background-color:whitesmoke;
   }
+  .font-weight-bold{
+    background-color:thistle;
+    text-align: center;
+    align-items: center;
+    font-family: lobster;
+  }
+  .destacados{
+    background-color:violet;
+    text-align: center;
+    font-size: 100%
+  }
