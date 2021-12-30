@@ -5,13 +5,14 @@ $('.c-ti').click(function(){
 
 window.addEventListener("scroll", function (){
 
-    document.querySelector("nav").classList.toggle("bg-light", window.scrollY < 20);
-    document.querySelector("nav").classList.toggle("bg-black", window.scrollY >=20);
+    document.querySelector("nav").classList.toggle("bg-info", window.scrollY < 20);
+    document.querySelector("nav").classList.toggle("bg-light", window.scrollY >=20);
     
 
 document.querySelector("#btn-up").classList.toggle("d-none", window.scrollY <= 50);
     })
     
-document.querySelector("#btn-up").classList.toggle("click", function (){
+document.querySelector("#btn-up").addEventListener("click", function (){
     window.scrollTo(0,0);
     })
+    
