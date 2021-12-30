@@ -1,2 +1,4 @@
 # viajes-chile
-Consiste en realizar una página relacionada a "Viajes de Chile", utilizando html - css - js.
+Desafio Latam - Proyecto Final: Viajes Chile
+Modulo 1: Fundamentos Desarrollo Web (G27)
+https://mariaignaciaroal.github.io/viajes-chile/
